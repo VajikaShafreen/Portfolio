@@ -120,6 +120,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding: .85rem 2rem;
+  flex-wrap: wrap;
   z-index: 999;
   animation: navSlideDown 0.5s ease both;
 }
@@ -138,17 +139,11 @@ nav {
 }
 
 .nav-links {
-
   display: flex;
-
   flex-wrap: wrap;
-
   justify-content: center;
-
   align-items: center;
-
   gap: 1rem;
-
   list-style: none;
 
 }
