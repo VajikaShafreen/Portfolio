@@ -138,9 +138,19 @@ nav {
 }
 
 .nav-links {
+
   display: flex;
-  gap: 1.6rem;
+
+  flex-wrap: wrap;
+
+  justify-content: center;
+
+  align-items: center;
+
+  gap: 1rem;
+
   list-style: none;
+
 }
 
 .nav-links a {
