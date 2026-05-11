@@ -117,7 +117,7 @@ nav {
   backdrop-filter: blur(16px);
   border-bottom: 1px solid var(--rose-petal);
   display: flex;
-  justify-content: space-between;
+ justify-content: center;
   align-items: center;
   padding: .85rem 2rem;
   flex-wrap: wrap;
